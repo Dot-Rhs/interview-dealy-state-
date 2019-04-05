@@ -1,0 +1,60 @@
+.card {
+  width: 308px;
+  border-radius: 3px;
+  border: 1px black solid;
+  height: 323px;
+  margin: 26px;
+  line-height: 1;
+}
+
+.upperCard {
+  width: 308px;
+  height: 133px;
+  border-bottom: 1px solid black;
+}
+
+.lowerCard {
+  width: 308px;
+  height: 190px;
+  padding: 19px;
+  box-sizing: border-box;
+}
+
+.image {
+  height: 133px;
+  width: 308px;
+}
+
+.header {
+  font-size: 23px;
+  font-family: Arial;
+  font-weight: bold;
+  color: #3a3a3a;
+
+  margin: 0px 0px 0px 36px;
+}
+
+.subtitle {
+  font-size: 12px;
+  font-family: Arial;
+  font-weight: bold;
+  color: #adadad;
+  margin-top: 2px;
+}
+
+.text {
+  font-size: 12px;
+  line-height: 1.583;
+  font-family: Arial;
+  color: #3a3a3a;
+}
+
+.avatar {
+  height: 2em;
+  width: 2em;
+  border: 1px solid black;
+  border-radius: 100%;
+  display: inline-block;
+  float: left;
+  background-color: rebeccapurple;
+}

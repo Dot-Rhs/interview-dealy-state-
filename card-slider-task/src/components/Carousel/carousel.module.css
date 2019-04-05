@@ -1,0 +1,9 @@
+.container {
+  width: 80vw;
+  height: 60vh;
+  background-color: #f6f6f6;
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: scroll;
+  flex-direction: row;
+}
